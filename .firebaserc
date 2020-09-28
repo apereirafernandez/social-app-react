@@ -1,5 +1,6 @@
 {
   "projects": {
-    "default": "socialape-2eca4"
+    "default": "socialape-2eca4",
+    "socialape-2eca4": "socialape-2eca4"
   }
 }
